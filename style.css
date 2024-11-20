@@ -1,0 +1,38 @@
+body {
+    background-color: #543310;
+}
+
+.Portfolio {
+    width: 50%;
+    color: #F3C623;
+    margin-top: 100px;
+    margin-left: 25%;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+.Man-like-tree {
+    width: 100%;
+    border: 5px solid black;
+} 
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    padding: 25px;
+}
+
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Josefin Sans", sans-serif;
+    padding: 25px;
+}
+
+.link {
+    color: #120ef7;
+}
+
+.footer {
+    margin-left: 25%;
+    font-weight: bold;
+}
